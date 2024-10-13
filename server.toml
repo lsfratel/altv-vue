@@ -1,0 +1,16 @@
+announce = false
+description = 'test'
+website = 'test.com'
+gamemode = 'Freeroam'
+language = 'en'
+modules = ['js-module-v2']
+name = 'My Cool alt:V Server Built Vue3 and TailwindCSS'
+players = 32
+port = 7788
+tags = []
+resources = [
+    'core',
+    'example',
+]
+debug = true
+host = '0.0.0.0'

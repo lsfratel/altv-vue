@@ -1,0 +1,12 @@
+cache/
+.server-crashes-cache/
+data/
+modules/
+node_modules/
+resources/
+.parcel-cache/
+altv-crash-handler
+altv-server
+ipc.txt
+libnodev2.so
+server.log

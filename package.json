@@ -1,0 +1,25 @@
+{
+  "name": "altv-vue-template",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/watcher.js",
+    "altv:update": "altv-pkg d release"
+  },
+  "devDependencies": {
+    "@altv/client": "^0.0.47",
+    "@altv/natives": "^0.0.9",
+    "@altv/server": "^0.0.48",
+    "@altv/shared": "^0.0.24",
+    "@altv/webview": "^0.0.6",
+    "@parcel/transformer-vue": "2.12.0",
+    "@types/node": "^22.7.5",
+    "altv-pkg": "^2.10.0",
+    "esbuild": "^0.24.0",
+    "esbuild-plugin-copy": "^2.1.1",
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "vue": "^3.5.12",
+    "watcher": "^2.3.1"
+  }
+}
